@@ -1,7 +1,7 @@
 ### EasyChen 
 
-- Works: http://ftqq.com
-- Weibo: http://weibo.com/easy
+- Works: https://ftqq.com
+- Weibo: https://weibo.com/easy
 
 <!--
 **easychen/easychen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
